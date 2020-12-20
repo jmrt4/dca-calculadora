@@ -5,7 +5,7 @@ using namespace std;
 int suma(int i, int j) { return i + j; }
 int resta(int i, int j) { return i - j; }
 int multiplica(int i, int j) { return i * j; }
-int cociente(int i, int j) { return i + j; }
+int cociente(int i, int j) { return i / j; }
 int resto(int i, int j) { return i % j; }
 
 int main() {
